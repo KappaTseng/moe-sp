@@ -64,5 +64,7 @@ public class SQLExample {
         System.out.println("Is valid user HelloSecure' OR '1'='1/7890? " +example.isValidUser("HelloSecure' OR '1'='1", "7890"));
         
         System.out.print("hello wolrd");
+        System.out.print("hello wolrd");
+        
     }
 }
